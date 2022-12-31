@@ -5,3 +5,38 @@
     font-family: 'Noto Sans Chakma', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+
+.footer{
+    background-color: #161716;
+    font-size: 14px;
+    line-height: 40px;
+    padding: 12px 0 12px 0;
+    height: 0 auto;
+    
+}
+.up-footer{
+    padding-left: 199px;
+    color: #4d5156;
+    display: flex;
+    font-weight: bold;
+}
+.circle-icon{
+    margin: 6px 4px 9px 0;
+    border-radius: 100%;
+    display: inline-block;
+    height: 10px;
+    vertical-align: middle;
+    width: 10px;
+    background: #70757a;
+}
+#icon{
+    color: #8BB5F8;
+    font-weight:100;
+}
+.down-footer{
+    padding-left: 172px;
+    color: #4d5156;
+}
+.down-footer a{
+    padding-left: 27px;
+}
